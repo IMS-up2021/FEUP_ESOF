@@ -12,5 +12,6 @@ Features:
 - lista de localizações (birth or more)
 
 Product vision:
+Uncover your past, connect with your present, and explore your future with our genealogy app
 
-Uncover your past, connect with your present, and chart your future with our genealogy app
+User stories:
