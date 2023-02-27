@@ -45,8 +45,8 @@ User stories:
 -	This user story relates to the feature of switching to a viewer mode, and highlights the value of this feature in helping users explore and analyze their family history data without making any accidental changes or modifications.
 
 8. Life events tracking and management
-- As a user of the genealogy app, I want to be able to switch to a viewer mode that allows me to view my family tree data without making any changes, so that I can easily explore and analyze my family history data. 
-- This user story relates to the feature of switching to a viewer mode, and highlights the value of this feature in helping users explore and analyze their family history data without making any accidental changes or modifications. By having a separate viewer mode, users can safely view and analyze their family tree data without worrying about accidentally modifying or deleting any information. This feature can also be useful when sharing family history data with others, as it allows users to share their data without giving others the ability to edit or change it.
+- As a user of the genealogy app, I want to be able to track and manage important life events for family members within my family tree, such as births, marriages, and deaths, so that I can have a comprehensive view of my family history.
+- This user story relates to the feature of life event tracking and management within a family tree. Users should be able to easily add, view, and edit important events for each family member, such as their birth date and location, marriage date and location, and death date and location. The ability to add additional custom events, such as graduations or military service, would also be valuable.
 
 9. Location list (birth or more)
 - As a user of the genealogy app, I want to be able to add and track locations for important events in my family history, such as birthplaces, wedding locations, and burial sites, so that I can better understand the geographical aspects of my family history and potentially plan visits to these locations.
