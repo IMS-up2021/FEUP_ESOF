@@ -29,3 +29,15 @@ User stories:
 6. As a user of the genealogy app, I want to be able to easily edit and update my family tree data, so that I can correct any errors or omissions and ensure that my family history is accurate and complete.
 
 7. As a user of the genealogy app, I want to be able to export my family tree data in a GEDCOM format, so that I can easily transfer my data to other genealogy apps or programs and ensure that my research is always accessible and secure.
+
+8. As a user of the genealogy app, I want to be able to track and visualize the incidence of certain genetic diseases or conditions across multiple generations of my family, so that I can better understand the prevalence of these conditions and potentially identify any patterns or correlations.
+
+9. As a user of the genealogy app, I want to be able to enter and store information about my family's medical history, including any diagnoses, treatments, or medications, so that I can keep track of important health information and potentially identify any genetic risks or predispositions.
+
+10. As a user of the genealogy app, I want to be able to search for specific genetic markers or traits within my family tree, so that I can better understand the inheritance patterns of certain traits and potentially identify any genetic risks or predispositions.
+
+11. As a user of the genealogy app, I want to be able to set up notifications or alerts for any new information related to genetic diseases or conditions in my family tree, so that I can stay informed and potentially take action to address any health concerns.
+
+12. As a user of the genealogy app, I want to be able to compare my own DNA data with that of other family members or genetic databases, so that I can potentially identify any genetic risks or predispositions and better understand my own health and ancestry.
+
+13. As a user of the genealogy app, I want to be able to generate reports or visualizations of my family's genetic data, so that I can better understand the inheritance patterns of certain traits and potentially identify any genetic risks or predispositions.
