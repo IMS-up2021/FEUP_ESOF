@@ -41,3 +41,5 @@ User stories:
 12. As a user of the genealogy app, I want to be able to compare my own DNA data with that of other family members or genetic databases, so that I can potentially identify any genetic risks or predispositions and better understand my own health and ancestry.
 
 13. As a user of the genealogy app, I want to be able to generate reports or visualizations of my family's genetic data, so that I can better understand the inheritance patterns of certain traits and potentially identify any genetic risks or predispositions.
+
+14. As a user of the genealogy app, I want to be able to view and analyze data on the prevalence of certain genetic diseases or conditions within different geographic or ethnic populations, so that I can better understand the potential genetic risks or predispositions within my own family and ancestry.
