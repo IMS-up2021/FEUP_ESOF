@@ -11,13 +11,13 @@ Features:
 - add life events
 - lista de localizações (birth or more)
 
-Product vision: \n
+Product vision:
   Our vision is to empower families to understand and appreciate the unique genetic traits that make them who they are, and to use this knowledge to promote health, wellness, and strong family bonds. By providing accessible and user-friendly tools for genetic analysis and family tree building, we aim to deepen our understanding of human genetics and improve the health and well-being of families across the world.
   Uncover your past, connect with your present, and explore your future with our genealogy app
 
 User stories:
 1.	Calculo de probabilidades de caracteristicas geneticas (up and down)
-•	As a user of the genealogy app, I want to be able to calculate the probability of inheriting certain genetic traits or characteristics from my ancestors, so that I can better understand my own genetic makeup and potential health risks.
+-	As a user of the genealogy app, I want to be able to calculate the probability of inheriting certain genetic traits or characteristics from my ancestors, so that I can better understand my own genetic makeup and potential health risks.
 •	This user story relates to the feature of calculating the probability of genetic traits or characteristics being passed down through generations, and highlights the value of this feature in helping users better understand their own genetic makeup and potential health risks.
 
 2.	Junção de arvores dif (request) ou connection
