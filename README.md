@@ -1,15 +1,15 @@
 # 2LEIC02T3
 Familiar, introduzindo dados do que sabe
 Features:
--Genetic probability calculation
--Family tree merge (request) or connection
--Login/logout functionality
--Name and gender search functionality
--Unique family identifier or key
--Ancestry and lineage
--Viewer mode functionality
--Life events tracking and management
--Location list (birth or more)
+- Genetic probability calculation
+- Family tree merge (request) or connection
+- Login/logout functionality
+- Name and gender search functionality
+- Unique family identifier or key
+- Ancestry and lineage
+- Viewer mode functionality
+- Life events tracking and management
+- Location list (birth or more)
 
 Product vision:
   Our vision is to empower families to understand and appreciate the unique genetic traits that make them who they are, and to use this knowledge to promote health, wellness, and strong family bonds. By providing accessible and user-friendly tools for genetic analysis and family tree building, we aim to deepen our understanding of human genetics and improve the health and well-being of families across the world.
