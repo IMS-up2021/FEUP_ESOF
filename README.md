@@ -1,5 +1,4 @@
 # 2LEIC02T3
-Familiar, introduzindo dados do que sabe
 Features:
 - Genetic probability calculation (up and down)
 - Family tree merge (request) or connection
