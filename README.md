@@ -27,29 +27,23 @@ Features:
 - Value: Must have (customers need to be able to calculate their genetic probability)
 - Effort: M (medium)
 2. Family tree merge (request) or connection
-- Value: Could have (customers need to be able to connect with their family members)
+- Value: Could have (customers could to be able to connect with their family members)
 - Effort: L (large)
 3. Login/logout functionality
 - Value: Must have (customers need to be able to securely access their data)
 - Effort: XS (very small)
-4. Name and gender search functionality
-- Value: Must have (customers need to be able to search for specific family members)
+4. Name search functionality
+- Value: Could have (customers need to be able to search for specific family members)
 - Effort: S (small)
 5. Unique family identifier or key
 - Value: Should have (provides a useful feature, but not critical for the app's functionality)
 - Effort: XS (very small)
-6. Ancestry and lineage
-- Value: Could have (provides additional information, but not essential for basic functionality)
-- Effort: L (large)
-7. Viewer mode functionality
+6. Viewer mode functionality
 - Value: Could have (provides additional way to view data, but not essential for basic functionality)
 - Effort: M (medium)
-8. Life events tracking and management
-- Value: Could have (provides additional information and organization, but not essential for basic functionality)
+7. Life events tracking and management
+- Value: Should have (provides additional information and organization, essential to increase interactivity)
 - Effort: L (large)
-9. Location list (birth or more)
-- Value: Could have (provides additional information, but not essential for basic functionality)
-- Effort: M (medium)
 
 Product vision:
   Our vision is to empower families to understand and appreciate the unique genetic traits that make them who they are, and to use this knowledge to promote health, wellness, and strong family bonds. By providing accessible and user-friendly tools for genetic analysis and family tree building, we aim to deepen our understanding of human genetics and improve the health and well-being of families across the world.
