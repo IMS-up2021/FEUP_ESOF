@@ -1,4 +1,4 @@
-# GenIO Development Report
+# GeneIO Development Report
 
 Welcome to the documentation pages of the GenIO!
 
