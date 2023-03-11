@@ -5,7 +5,23 @@ Welcome to the documentation pages of the GenIO!
 You can find here details about the product (or mini-app or module), from a high-level vision to low-level implementation decisions, a kind of Software Development Report, organized by discipline (as of Rational Unified Process):
 
 
++ Business modeling
+  - Product Vision
+  - Elevator Pitch
++ Requirements
+  - Use Case Model
+  - User stories
+  - Domain model
++ Architecture and Design
+  - [Logical architecture]
+  - [Physical architecture]
+  - [Vertical prototype]
+ + [Implementation]
+ + [Test]
+ + [Configuration and change management]
+ + Project management
 
+------------------------------------------------------------------------------------------------------------
 Features:
 1. Genetic probability calculation (up and down)
 - Value: Must have (customers need to be able to calculate their genetic probability)
