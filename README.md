@@ -122,3 +122,16 @@ Then the app should save and display the information in a clear and organized wa
 And when I search for a family member's life event or location
 Then the app should provide me with accurate and relevant search results
 
+------------------------------------------------------------------------------------------------------------------------------------
+
+So far, contributions are exclusively made by the initial team, but we hope to open them to the community, in all areas and topics: requirements, technologies, development, experimentation, testing, etc.
+
+Please contact us!
+
+Thank you!
+
+Miguel Rocha
+Joana Marques
+Miguel Pedrosa
+Inês Soares
+
