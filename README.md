@@ -132,10 +132,7 @@ Thank you!
 
 
 Miguel Rocha
-
 Joana Marques
-
 Miguel Pedrosa
-
 Inês Soares
 
