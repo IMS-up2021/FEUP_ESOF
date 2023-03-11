@@ -43,4 +43,36 @@ User stories:
 6. Life events tracking and management
 - As a user of the genealogy app, I want to be able to manage and track key life events and locations for my family members, including births, marriages, graduations, and deaths, so that I can gain a comprehensive understanding of my family history, including its geographical aspects. 
 
+Acceptance tests:
+1. Given that I am a user of the genealogy app
+When I input my genetic information and my ancestors' genetic information
+Then the app should calculate the probability of me inheriting certain genetic traits or characteristics from my ancestors and potentially passing them on to my descendants
+
+2. Given that I am a user of the genealogy app
+When I connect and merge my family tree with another user's family tree
+Then the app should combine the two trees and display a more complete and accurate picture of my family history
+
+3. Given that I am a user of the genealogy app
+When I try to log in to my account with my correct username and password
+Then the app should grant me access to my account
+And when I log out of my account
+Then the app should securely log me out and protect my personal information
+
+
+4. Given that I am an authorized family member with access to modify sensitive information
+When I provide the unique family key
+Then the app should allow me to modify the data
+And when I don't provide the unique family key
+Then the app should deny me access and protect the privacy and security of our family history
+
+
+5. Given that I am a user of the genealogy app
+When I switch to viewer mode
+Then the app should allow me to view and navigate through other family trees without the ability to modify their sensitive details
+
+6. Given that I am a user of the genealogy app
+When I add or update a life event or location for a family member
+Then the app should save and display the information in a clear and organized way
+And when I search for a family member's life event or location
+Then the app should provide me with accurate and relevant search results
 
