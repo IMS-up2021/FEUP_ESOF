@@ -131,8 +131,8 @@ Please contact us!
 Thank you!
 
 
-Miguel Rocha
-Joana Marques
-Miguel Pedrosa
-Inês Soares
+.Miguel Rocha
+.Joana Marques
+.Miguel Pedrosa
+.Inês Soares
 
