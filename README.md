@@ -27,7 +27,7 @@ Features:
 - Value: Must have (customers need to be able to calculate their genetic probability)
 - Effort: M (medium)
 2. Family tree merge (request) or connection
-- Value: Must have (customers need to be able to connect with their family members)
+- Value: Could have (customers need to be able to connect with their family members)
 - Effort: L (large)
 3. Login/logout functionality
 - Value: Must have (customers need to be able to securely access their data)
