@@ -130,9 +130,11 @@ Please contact us!
 
 Thank you!
 
+### Members
 
-.Miguel Rocha
-.Joana Marques
-.Miguel Pedrosa
-.Inês Soares
-
+| Name                                             | Number      | Git                                             |
+| ---                                              | ---         | ---                                             |
+| **Joana Rita Batista Marques**                   |  202103346  | [JMarques8](https://github.com/JMarques8)       |
+| **Miguel Diogo Andrade Rocha**                   |  202108720  | [r00cha](https://github.com/r00cha)             |
+| **Inês Martin Soares**                           |  202108852  | [IMS-up2021](https://github.com/IMS-up2021) |
+| **Miguel José Pinho Freitas de Carvalho Pedrosa**|  202108809  | [migueljcpedrosa](https://github.com/migueljcpedrosa)|
