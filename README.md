@@ -1,6 +1,6 @@
 # GeneIO Development Report
 
-Welcome to the documentation pages of the GenIO!
+Welcome to the documentation pages of the GeneIO!
 
 You can find here details about the product (or mini-app or module), from a high-level vision to low-level implementation decisions, a kind of Software Development Report, organized by discipline (as of Rational Unified Process):
 
