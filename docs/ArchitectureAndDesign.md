@@ -11,7 +11,7 @@ Our application is divided into the following packages:
 + Firebase
 
 <p align="center" justify="center">
-  <img src="docs/Logical_architeture.jpg"/>
+  <img src="Logical_architeture.jpg"/>
 </p>
 
 ### Physical architecture
@@ -23,6 +23,6 @@ The physical architecture of our project is divided in four main parts:
 - The Firebase
 
 <p align="center" justify="center">
-  <img src="docs/Physical_architeture.jpg"/>
+  <img src="Physical_architeture.jpg"/>
 </p>
 
