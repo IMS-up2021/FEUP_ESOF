@@ -1,6 +1,4 @@
-### User stories
-
-User stories:
+# User stories:
 1.	Genetic probability calculation (up and down)
 -	As a user of the genealogy app, I want to be able to calculate the probability of inheriting certain genetic traits or characteristics from my ancestors and potentially passing them on to my descendants, so that I can better understand my own genetic makeup and potential health risks.
 
@@ -30,7 +28,8 @@ User stories:
 
 
 
-Acceptance tests:
+
+# Acceptance tests:
 1. Genetic probability calculation (up and down)
 - Given that I am a user of the genealogy app
 When I input my genetic information and my ancestors' genetic information
