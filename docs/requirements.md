@@ -27,6 +27,27 @@
 - As a user of the genealogy app, I want to be able to manage and track key life events and locations for my family members, including births, marriages, graduations, and deaths, so that I can gain a comprehensive understanding of my family history, including its geographical aspects. 
 
 
+# UI Mockups:
+## Login
+![Login](./login.png)
+
+## Signup
+![Signup](./signup.png)
+
+## Menu
+![Menu](./menu.png)
+
+## Tree
+![Tree](./tree.png)
+
+## Details
+![Details](./details.png)
+
+## History
+![History](./history.png)
+
+## Friends
+![Friends](./friends.png)
 
 
 # Acceptance tests:
