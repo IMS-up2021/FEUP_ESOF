@@ -49,9 +49,9 @@ Product vision:
   Our vision is to empower families to understand and appreciate the unique genetic traits that make them who they are, and to use this knowledge to promote health, wellness, and strong family bonds. By providing accessible and user-friendly tools for genetic analysis and family tree building, we aim to deepen our understanding of human genetics and improve the health and well-being of families across the world.
   Uncover your past, connect with your present, and explore your future with our genealogy app
 
-[User Stories](./docs/requirements.md) 
+## [User Stories](./docs/requirements.md) 
 
-[Acceptance Tests](./docs/requirements.md) 
+## [Acceptance Tests](./docs/requirements.md) 
 
 
 ------------------------------------------------------------------------------------------------------------------------------------
