@@ -89,3 +89,10 @@ Then the app should save and display the information in a clear and organized wa
 And when I search for a family member's life event or location
 Then the app should provide me with accurate and relevant search results
 
+### Domain Model
+
+<p align="center" justify="center">
+  <img src="Domain_Model.jpg">
+</p>
+
+
