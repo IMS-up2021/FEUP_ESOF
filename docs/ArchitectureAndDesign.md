@@ -1,11 +1,5 @@
 ## Architecture and Design
 
-### Domain Model
-
-<p align="center" justify="center">
-  <img src="Domain_Model.jpg">
-</p>
-
 ### Logical architecture
 
 Our application is divided into the following packages:
