@@ -91,7 +91,7 @@ Then the app should provide me with accurate and relevant search results
 # Domain Model:
 
 <p align="center" justify="center">
-  <img src="Domain_Model.jpg">
+  <img src="Domain Model.png">
 </p>
 
 
