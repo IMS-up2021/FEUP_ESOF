@@ -12,9 +12,15 @@
 - As a user of the genealogy app, I want to be able to securely log in and out of my account, so that I can save my personal information and keep my family history data secure.
 
 
+![Login](./login.png)
+![Signup](./signup.png)
+
 
 4.	Unique family identifier or key
 -	As a user of the genealogy app, I  wanto to have the ability to modify sensitive information within my family tree, but only if I provide the unique family key, so that only authorized family members can access and modify the data, ensuring the privacy and security of our family history.
+
+
+![Details](./details.png)
 
 
 
@@ -22,29 +28,22 @@
 -	As a user of the genealogy app, I want to be able to switch to a viewer mode that allows meview and navigate through other family trees, so that I can better understand the intergenerational connections and relationships outside my family history without risking changing their sensitive details.
 
 
+![Tree](./tree.png)
+
+
 
 6. Life events tracking and management
 - As a user of the genealogy app, I want to be able to manage and track key life events and locations for my family members, including births, marriages, graduations, and deaths, so that I can gain a comprehensive understanding of my family history, including its geographical aspects. 
 
 
-# UI Mockups:
-## Login
-![Login](./login.png)
+![History](./history.png)
 
-## Signup
-![Signup](./signup.png)
+# Other UI Mockups:
+
+
 
 ## Menu
 ![Menu](./menu.png)
-
-## Tree
-![Tree](./tree.png)
-
-## Details
-![Details](./details.png)
-
-## History
-![History](./history.png)
 
 ## Friends
 ![Friends](./friends.png)
