@@ -53,6 +53,8 @@ Product vision:
 
 ## [Acceptance Tests](./docs/requirements.md) 
 
+## [Domain Model (it's in the end of the file)](./docs/requirements.md) 
+
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
