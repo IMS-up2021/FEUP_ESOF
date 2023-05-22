@@ -94,4 +94,16 @@ Then the app should provide me with accurate and relevant search results
   <img src="Domain Model.png">
 </p>
 
-This diagram shows how our work is divided. First, our customer must have the possibility to create an account, for the sake of protection of information, so that they can choose what is private or not. So the class Customer has as attributes the usernameID and the password. Next, we have a class named Menu which has only one attribute, the menuID. This class is a generalization, it has (for now) four submenus: MenuProfile, MenuFamily, MenuFriend and MenuHistory. The attributes of  MenuProfile class are profileID, name, age, name and definitions (this last one is going to be more detailed). In MenuFamily class, we have as attributes familyID, name, key, root, startedAt and updatedAt. Every Family tree (MenuFamily) can have one or more people attached to it (Person class). The Person class has as attribut id, firstName, lastName, gender, age, birthDate, deathDate, marrigedDate, birthPlace, deathPlace. The MenuFriend only has as attribute friendID. Similar to the MenuFamily class, it can have one or more friends. The Friend class has id, treeViwer, firstName, lastName, gender, age, birthDate, deathDate, marrigedDate, birthPlace, deathPlace. Finally, the MenuHistory has one attribute, which is historyID.
+- This diagram shows how our work is divided. First, our customer must have the possibility to create an account, for the sake of protection of information, so that they can choose what is private or not. So the class Customer has as attributes the usernameID and the password. 
+
+- Next, we have a class named Menu which has only one attribute, the menuID. This class is a generalization, it has (for now) four submenus: MenuProfile, MenuFamily, MenuFriend and MenuHistory. The attributes of  MenuProfile class are profileID, name, age, name and definitions (this last one is going to be more detailed). 
+
+- In MenuFamily class, we have as attributes familyID, name, key, root, startedAt and updatedAt. Every Family tree (MenuFamily) can have one or more people attached to it (Person class). 
+
+- The Person class has as attribut id, firstName, lastName, gender, age, birthDate, deathDate, marrigedDate, birthPlace, deathPlace.
+ 
+- The MenuFriend only has as attribute friendID. Similar to the MenuFamily class, it can have one or more friends. 
+
+- The Friend class has id, treeViwer, firstName, lastName, gender, age, birthDate, deathDate, marrigedDate, birthPlace, deathPlace. 
+
+- Finally, the MenuHistory has one attribute, which is historyID.
